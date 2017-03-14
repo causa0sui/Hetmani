@@ -46,3 +46,5 @@ for i in range(n):
         xd = xd + macierz[i][j]
         xd += " "
     print(xd)
+    for i==2 and i==2 and i==3:
+        print(ERROR)
